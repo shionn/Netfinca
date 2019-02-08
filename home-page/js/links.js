@@ -76,7 +76,7 @@ $(function() {
       link : 'https://ld102wta0102f.distrib.ca-titres.gca:55443/schemas-new/'
     }, {
       name : 'Page des liens',
-      link : 'https://ld102tod0101f.distrib.ca-titres.gca:5643/display/EVOEC/PagedesLiens+-+URLs'
+      link : 'https://ld102tod0101f.distrib.ca-titres.gca:5643/display/EVOEC/Page+des+Liens+-+URLs'
     }, {
       name : 'Confluence',
       link : 'https://ld102tod0101f.distrib.ca-titres.gca:5643/'
